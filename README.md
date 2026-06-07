@@ -34,7 +34,7 @@ A Python pipeline built in Google Colab that:
 
 ## Sample Outputs
 ![Invoice sample](sample_output/invoice_output.png)  
-![Report sample](sample_output/sheet output.png)
+![Report sample](sample_output/Sheet Output.png)
 
 ## License
 MIT
