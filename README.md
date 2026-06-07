@@ -33,8 +33,8 @@ A Python pipeline built in Google Colab that:
 > **Note**: This notebook is designed for internal use at Foodrush. You may need to adapt column names and pricing rules for your own data.
 
 ## Sample Outputs
-![Invoice sample](sample_output/invoice_sample.png)  
-![Report sample](sample_output/report_sample.png)
+![Invoice sample](sample_output/invoice_output.png)  
+![Report sample](sample_output/sheet output.png)
 
 ## License
 MIT
